@@ -4,3 +4,9 @@ exports.getIndex = (req, res, next) => {
         pageName : 'Home'
       });
 };
+
+exports.getLogin = (req, res, next) => {
+  res.render('dashboard', {
+      pagename: 'Login'
+  });
+}

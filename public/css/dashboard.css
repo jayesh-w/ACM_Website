@@ -1,0 +1,9 @@
+body {
+  overflow-x:hidden;
+}
+#sidebar {
+  background-color: #212121;
+  color:white;
+  padding:5px;
+  height: 100%;
+}

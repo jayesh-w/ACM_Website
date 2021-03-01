@@ -1,0 +1,13 @@
+body {
+  background-color: #212121;
+}
+
+.form-box {
+  margin:auto;
+  margin-top:10rem;
+  width: 15rem;
+  background-color: rgba(255,255,255,0.4);
+  box-shadow:0px 0px 20px 0px rgba(0,0,0,0.8);
+  padding: 1rem;
+  border-radius: 5px;
+}
